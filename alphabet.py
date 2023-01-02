@@ -1,0 +1,4 @@
+print("alphabet")
+
+print("abcdefghijklmnopqrstuvwxyz")
+
